@@ -76,9 +76,9 @@ cd Smart-AgroHub-AI-for-precision-farming*
 
 2. Create a virtual environment and activate it:
 *python -m venv venv
-# Windows
+### Windows
 venv\Scripts\activate
-# Linux/Mac
+### Linux/Mac
 source venv/bin/activate*
 
 3.Install dependencies:
@@ -89,17 +89,20 @@ source venv/bin/activate*
 
 --- 
 **Usage**
+
 - Visit http://localhost:5000 in your browser.
 - Register as a user or login as admin.
 - Use the crop prediction, fertilizer recommendation, and disease detection features.
 
 ---
 **Contributing**
-1.Fork the repository
-2.Create a branch (git checkout -b feature-name)
-3.Make changes and commit (git commit -m "Add feature")
-4.Push to the branch (git push origin feature-name)
-5.Create a pull request
+
+1. Fork the repository
+2. Create a branch (git checkout -b feature-name)
+3. Make changes and commit (git commit -m "Add feature")
+4. Push to the branch (git push origin feature-name)
+5. Create a pull request
+
 
 ---
 **License**
