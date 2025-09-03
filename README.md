@@ -50,20 +50,21 @@ Smart AgroHub is an AI-powered precision farming platform that helps farmers mak
 
 Smart-AgroHub/
 ├─ Agriculture/
-│ ├─ app.py
-│ ├─ utils/
-│ │ ├─ disease.py
-│ │ ├─ fertilizer.py
-│ │ └─ model.py
-│ ├─ templates/
-│ └─ static/
+│  ├─ app.py
+│  ├─ utils/
+│  │  ├─ disease.py
+│  │  ├─ fertilizer.py
+│  │  └─ model.py
+│  ├─ templates/
+│  └─ static/
 ├─ Crop_Prediction-master/
-│ ├─ app.py
-│ ├─ crops.py
-│ └─ static/
+│  ├─ app.py
+│  ├─ crops.py
+│  └─ static/
 ├─ README.md
 ├─ requirements.txt
 └─ Procfile
+
 
 ---
 
