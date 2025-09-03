@@ -75,11 +75,11 @@ cd Smart-AgroHub-AI-for-precision-farming*
 
 
 2. Create a virtual environment and activate it:
-*python -m venv venv
+python -m venv venv
 ### Windows
 venv\Scripts\activate
 ### Linux/Mac
-source venv/bin/activate*
+source venv/bin/activate
 
  3.Install dependencies:
 
