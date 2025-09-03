@@ -69,23 +69,25 @@ Smart-AgroHub/
 
 ## Installation
 
-1. Clone the repository:
+1.Clone the repository:
+
 *git clone https://github.com/abinithi-ka/Smart-AgroHub-AI-for-precision-farming.git
 cd Smart-AgroHub-AI-for-precision-farming*
 
 
-2. Create a virtual environment and activate it:
+2.Create a virtual environment and activate it:
+
 python -m venv venv
 ### Windows
 venv\Scripts\activate
 ### Linux/Mac
 source venv/bin/activate
 
- 3.Install dependencies:
+3.Install dependencies:
 
 *pip install -r requirements.txt*
 
- 4.Run the Flask app:
+4.Run the Flask app:
 
 *python Agriculture/app.py*
 
